@@ -1,9 +1,13 @@
-👨‍💻 Somesh Bhardwaj | System Admin | Tech Enthusiast | Newbie Coder
+👨‍💻 Somesh Bhardwaj | System Admin | Automation & AI Enthusiast | Tech Problem Solver
 
-🚀 System Admin @ The Contentment Foundation, managing 250+ apps/services through Okta, with expertise in Google Workspace, IT onboarding/offboarding, data security, and tech finance reports. Currently learning Playwright testing and QA. Passionate about integrating AI and tech into nonprofit initiatives to make a global impact.
+🚀 Skills & Expertise:
 
-🌱 Exploring AI tools, coding, and automating workflows in Slack & Jira using Make.com.
+IT Infrastructure: Okta, Google Workspace, Atlassian Suite, Slack, Zoom, BambooHR
+Automation & Scripting: Make.com (scenarios for Slack & Jira), Playwright Testing, Workflow Optimization
+Data Management: GAT+ Auditing, Data Security & Compliance, Reporting (Power BI, Tableau)
+Tech Finance: Cost-Cutting, Subscription Management, IT Budgeting
+Collaboration & Integration: IT Onboarding/Offboarding, Cross-Platform Integration
+AI & Coding: Learning AI integration and beginner-level coding with VB and Playwright
+🌱 Continuously expanding my knowledge in AI, automation, and coding to solve real-world problems across tech, wellness, and education sectors.
 
-💡 Open to collaborations on IT automation, testing, and wellness tech projects.
-
-Let's build something meaningful together!
+Let's collaborate on innovative tech solutions!
